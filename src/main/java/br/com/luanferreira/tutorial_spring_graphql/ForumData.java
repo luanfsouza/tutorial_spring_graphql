@@ -1,8 +1,5 @@
 package br.com.luanferreira.tutorial_spring_graphql;
 
-/**
- * ForumData
- */
 record Post(String id, String content) {
 
     
