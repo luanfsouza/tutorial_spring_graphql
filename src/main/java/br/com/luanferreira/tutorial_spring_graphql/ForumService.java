@@ -24,6 +24,7 @@ class PostService {
 }
 @Service
 class CommentService {
+    
     Map<String, Comment> comments = new HashMap<>();
     
     Collection<Comment> creatComment(String content, String postId) {
