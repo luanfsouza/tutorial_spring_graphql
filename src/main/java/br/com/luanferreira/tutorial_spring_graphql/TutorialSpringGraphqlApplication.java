@@ -11,4 +11,4 @@ public class TutorialSpringGraphqlApplication {
 		SpringApplication.run(TutorialSpringGraphqlApplication.class, args);
 	}
 
-}
+} 
